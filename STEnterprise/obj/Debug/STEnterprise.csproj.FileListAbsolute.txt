@@ -1,0 +1,281 @@
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\csc.exe
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\vbc.exe
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\VBCSCompiler.exe
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\STEnterprise.dll.config
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\STEnterprise.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\STEnterprise.pdb
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Antlr3.Runtime.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.CrystalReports.Design.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.ReportSource.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.Shared.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.VSDesigner.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.Web.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\CrystalDecisions.Windows.Forms.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\EntityFramework.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\EntityFramework.SqlServer.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\FlashControlV71.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\GridMvc.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Newtonsoft.Json.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Owin.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\SAPBusinessObjects.WPF.Viewer.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Abstractions.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Helpers.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Mvc.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Optimization.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Razor.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Routing.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.WebPages.Deployment.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.WebPages.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.WebPages.Razor.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\WebGrease.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\EnvDTE.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\VSLangProj.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\VsWebSite.Interop.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\EnvDTE80.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\stdole.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.MSXML.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Helpers.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Mvc.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Optimization.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.Razor.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.WebPages.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.WebPages.Deployment.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\System.Web.WebPages.Razor.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Antlr3.Runtime.pdb
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Newtonsoft.Json.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\EntityFramework.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\EntityFramework.SqlServer.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\obj\Debug\STEnterprise.csprojResolveAssemblyReference.cache
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\obj\Debug\STEnterprise.dll
+D:\Projects .NET\STE\STEnterprise.root\STEnterprise\STEnterprise\obj\Debug\STEnterprise.pdb
+J:\STEnterprise\STEnterprise\obj\Debug\STEnterprise.csprojResolveAssemblyReference.cache
+J:\STEnterprise\STEnterprise\obj\Debug\STEnterprise.dll
+J:\STEnterprise\STEnterprise\obj\Debug\STEnterprise.pdb
+J:\STEnterprise\STEnterprise\bin\roslyn\csc.exe
+J:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\STEnterprise\STEnterprise\bin\roslyn\System.Collections.Immutable.dll
+J:\STEnterprise\STEnterprise\bin\roslyn\System.Reflection.Metadata.dll
+J:\STEnterprise\STEnterprise\bin\roslyn\vbc.exe
+J:\STEnterprise\STEnterprise\bin\roslyn\VBCSCompiler.exe
+J:\STEnterprise\STEnterprise\bin\roslyn\VBCSCompiler.exe.config
+J:\STEnterprise\STEnterprise\bin\STEnterprise.dll.config
+J:\STEnterprise\STEnterprise\bin\STEnterprise.dll
+J:\STEnterprise\STEnterprise\bin\STEnterprise.pdb
+J:\STEnterprise\STEnterprise\bin\Antlr3.Runtime.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.CrystalReports.Design.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.CrystalReports.Engine.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.Data.AdoDotNetInterop.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.ReportSource.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.Shared.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.VSDesigner.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.Web.dll
+J:\STEnterprise\STEnterprise\bin\CrystalDecisions.Windows.Forms.dll
+J:\STEnterprise\STEnterprise\bin\EntityFramework.dll
+J:\STEnterprise\STEnterprise\bin\EntityFramework.SqlServer.dll
+J:\STEnterprise\STEnterprise\bin\FlashControlV71.dll
+J:\STEnterprise\STEnterprise\bin\GridMvc.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Core.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Cookies.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Facebook.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Google.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.OAuth.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Twitter.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.Web.Infrastructure.dll
+J:\STEnterprise\STEnterprise\bin\Newtonsoft.Json.dll
+J:\STEnterprise\STEnterprise\bin\Owin.dll
+J:\STEnterprise\STEnterprise\bin\SAPBusinessObjects.WPF.Viewer.dll
+J:\STEnterprise\STEnterprise\bin\SAPBusinessObjects.WPF.ViewerShared.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.Abstractions.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.Helpers.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.Mvc.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.Optimization.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.Razor.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.Routing.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Deployment.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.WebPages.dll
+J:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Razor.dll
+J:\STEnterprise\STEnterprise\bin\WebGrease.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+J:\STEnterprise\STEnterprise\bin\EnvDTE.dll
+J:\STEnterprise\STEnterprise\bin\VSLangProj.dll
+J:\STEnterprise\STEnterprise\bin\VsWebSite.Interop.dll
+J:\STEnterprise\STEnterprise\bin\EnvDTE80.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.VSHelp.dll
+J:\STEnterprise\STEnterprise\bin\stdole.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.MSXML.dll
+J:\STEnterprise\STEnterprise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\STEnterprise\STEnterprise\bin\System.Web.Helpers.xml
+J:\STEnterprise\STEnterprise\bin\System.Web.Mvc.xml
+J:\STEnterprise\STEnterprise\bin\System.Web.Optimization.xml
+J:\STEnterprise\STEnterprise\bin\System.Web.Razor.xml
+J:\STEnterprise\STEnterprise\bin\System.Web.WebPages.xml
+J:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Deployment.xml
+J:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Razor.xml
+J:\STEnterprise\STEnterprise\bin\Antlr3.Runtime.pdb
+J:\STEnterprise\STEnterprise\bin\Newtonsoft.Json.xml
+J:\STEnterprise\STEnterprise\bin\EntityFramework.xml
+J:\STEnterprise\STEnterprise\bin\EntityFramework.SqlServer.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Core.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Facebook.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Cookies.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.OAuth.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Google.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Twitter.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\STEnterprise\STEnterprise\obj\Debug\STEnterprise.csprojResolveAssemblyReference.cache
+F:\STEnterprise\STEnterprise\bin\roslyn\csc.exe
+F:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\STEnterprise\STEnterprise\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\STEnterprise\STEnterprise\bin\roslyn\System.Collections.Immutable.dll
+F:\STEnterprise\STEnterprise\bin\roslyn\System.Reflection.Metadata.dll
+F:\STEnterprise\STEnterprise\bin\roslyn\vbc.exe
+F:\STEnterprise\STEnterprise\bin\roslyn\VBCSCompiler.exe
+F:\STEnterprise\STEnterprise\bin\roslyn\VBCSCompiler.exe.config
+F:\STEnterprise\STEnterprise\bin\STEnterprise.dll.config
+F:\STEnterprise\STEnterprise\bin\STEnterprise.dll
+F:\STEnterprise\STEnterprise\bin\STEnterprise.pdb
+F:\STEnterprise\STEnterprise\bin\Antlr3.Runtime.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.CrystalReports.Design.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.Data.AdoDotNetInterop.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.ReportSource.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.Shared.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.VSDesigner.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.Web.dll
+F:\STEnterprise\STEnterprise\bin\CrystalDecisions.Windows.Forms.dll
+F:\STEnterprise\STEnterprise\bin\EntityFramework.dll
+F:\STEnterprise\STEnterprise\bin\EntityFramework.SqlServer.dll
+F:\STEnterprise\STEnterprise\bin\FlashControlV71.dll
+F:\STEnterprise\STEnterprise\bin\GridMvc.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Core.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Cookies.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Facebook.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Google.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.OAuth.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Twitter.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.Web.Infrastructure.dll
+F:\STEnterprise\STEnterprise\bin\Newtonsoft.Json.dll
+F:\STEnterprise\STEnterprise\bin\Owin.dll
+F:\STEnterprise\STEnterprise\bin\Rotativa.Core.dll
+F:\STEnterprise\STEnterprise\bin\Rotativa.MVC.dll
+F:\STEnterprise\STEnterprise\bin\SAPBusinessObjects.WPF.Viewer.dll
+F:\STEnterprise\STEnterprise\bin\SAPBusinessObjects.WPF.ViewerShared.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.Abstractions.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.Helpers.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.Mvc.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.Optimization.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.Razor.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.Routing.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Deployment.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.WebPages.dll
+F:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Razor.dll
+F:\STEnterprise\STEnterprise\bin\WebGrease.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\STEnterprise\STEnterprise\bin\EnvDTE.dll
+F:\STEnterprise\STEnterprise\bin\VSLangProj.dll
+F:\STEnterprise\STEnterprise\bin\VsWebSite.Interop.dll
+F:\STEnterprise\STEnterprise\bin\EnvDTE80.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.VSHelp.dll
+F:\STEnterprise\STEnterprise\bin\stdole.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.MSXML.dll
+F:\STEnterprise\STEnterprise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\STEnterprise\STEnterprise\bin\System.Web.Helpers.xml
+F:\STEnterprise\STEnterprise\bin\System.Web.Mvc.xml
+F:\STEnterprise\STEnterprise\bin\System.Web.Optimization.xml
+F:\STEnterprise\STEnterprise\bin\System.Web.Razor.xml
+F:\STEnterprise\STEnterprise\bin\System.Web.WebPages.xml
+F:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Deployment.xml
+F:\STEnterprise\STEnterprise\bin\System.Web.WebPages.Razor.xml
+F:\STEnterprise\STEnterprise\bin\Antlr3.Runtime.pdb
+F:\STEnterprise\STEnterprise\bin\Newtonsoft.Json.xml
+F:\STEnterprise\STEnterprise\bin\EntityFramework.xml
+F:\STEnterprise\STEnterprise\bin\EntityFramework.SqlServer.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Core.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Facebook.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Cookies.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.OAuth.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Google.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.Twitter.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\STEnterprise\STEnterprise\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\STEnterprise\STEnterprise\obj\Debug\STEnterprise.dll
+F:\STEnterprise\STEnterprise\obj\Debug\STEnterprise.pdb

@@ -1,0 +1,90 @@
+﻿@using STEnterprise.Models
+@model ReportModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Daily Stock Report</title>
+    <style>
+        .borderSet > th {
+            border: 1px solid black;
+        }
+
+        .borderSet > td {
+            border: 1px solid black;
+        }
+
+        .mainHedder {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .GroupBold {
+            font-weight: bold;
+            padding-bottom: 50px;
+        }
+
+        .table > tr > td {
+            border-top: 0px !important;
+        }
+
+        #rowLine {
+            color: #f00;
+            background-color: black;
+            height: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div style="display:none">
+        @Html.TextBoxFor(b => b.FromDate, new { id = "FromDate" });
+        @Html.TextBoxFor(b => b.ToDate, new { id = "ToDate" });
+        @Html.TextBoxFor(b => b.ReportType, new { id = "ReportType" });
+    </div>
+    <div class="container">
+        <h1 class="mainHedder">S.T ENTERPRISE</h1>
+        <h4 class="mainHedder">Daily Stock Report</h4>
+        <h5 class="mainHedder">  Date From: @String.Format("{0:dd/MMM/yyyy}", Model.FromDate) To : @String.Format("{0:dd/MMM/yyyy}", Model.ToDate)</h5>
+        <p id="rowLine"></p>
+        <table class="table table-responsive">
+            <tr>
+                <td style="border-top:0px !important"></td>
+            </tr>
+            <tr class="borderSet">
+                <th>Product Name</th>
+                <th>Description</th>
+                <th>Quantity</th>
+                <th>Stock(kg)</th>                
+            </tr>
+            <tbody id="SaleData"></tbody>
+        </table>
+        <a id="makerpdf" href="#"><button type="button" class="btn btn-info">Make PDF</button></a>
+    </div>
+
+
+</body>
+
+</html>
+<script>
+    var LocalSaleData = @JavaScriptConvert.SerializeObject(Model.dtCommon);
+    console.log(LocalSaleData);
+    $.each(LocalSaleData, function (key, value) {
+        $("#SaleData").append(' <tr  class="borderSet"> <td>' + value.productName + '</td><td>' + value.productDescription + '</td><td>' + value.totalBag + '</td> <td>' + value.stock + '</td></tr>');
+    });
+    $(document).ready(function () {
+        $('#makerpdf').click(function () {
+            var FromDate = $("#FromDate").val();
+            var ToDate = $("#ToDate").val();
+            var ReportType = $("#ReportType").val();
+            var pdfurl = '/Report/ExportPDF?FromDate=' + FromDate + '&ToDate=' + ToDate + '&ReportType=' + ReportType;
+            $("#makerpdf").attr("href", pdfurl);
+        });
+    });
+</script>

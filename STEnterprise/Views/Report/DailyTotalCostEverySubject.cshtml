@@ -1,0 +1,104 @@
+﻿@using STEnterprise.Models
+@model ReportModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Daily Total Cost Every Subject</title>
+    <style>
+        .borderSet > th {
+            border: 1px solid black;
+        }
+
+        .borderSet > td {
+            border: 1px solid black;
+        }
+
+        .mainHedder {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .GroupBold {
+            font-weight: bold;
+            padding-bottom: 50px;
+        }
+
+        .table > tr > td {
+            border-top: 0px !important;
+        }
+
+        #rowLine {
+            color: #f00;
+            background-color: black;
+            height: 5px;
+            
+        }
+    </style>
+</head>
+<body>
+    <div style="display:none">
+        @Html.TextBoxFor(b => b.FromDate, new { id = "FromDate" });
+        @Html.TextBoxFor(b => b.ToDate, new { id = "ToDate" });
+        @Html.TextBoxFor(b => b.ReportType, new { id = "ReportType" });
+    </div>
+    <div class="container">
+        <h1 class="mainHedder">S.T ENTERPRISE</h1>
+        <h4 class="mainHedder">Daily Total Cost Every Subject</h4>
+        <h5 class="mainHedder">  Date From: @String.Format("{0:dd/MMM/yyyy}", Model.FromDate) To : @String.Format("{0:dd/MMM/yyyy}", Model.ToDate)</h5>
+        <p id="rowLine"></p>
+        <table class="table">                       
+            <tbody id="SaleData"></tbody>
+            <tbody id="totalCount"></tbody>
+        </table>
+        <a id="makerpdf" href="#"><button type="button" class="btn btn-info">Make PDF</button></a>
+    </div>
+
+
+</body>
+
+</html>
+<script>
+    var LocalSaleData = @JavaScriptConvert.SerializeObject(Model.dtCommon);
+    var a = "";
+    var row = 0;
+    var TotalAmounts=0;
+    var PaidAmounts=0;
+    var DueAmounts=0;
+    $.each(LocalSaleData, function (key, value) {
+        row = row + 1;
+        if(value.date.substr(0, 10) != a){
+            $("#SaleData").append('<tr><td style="border-top:0px !important"></td></tr><tr> <td class="GroupBold" style="border-top:0px !important">' + "Date :" + '</td><td style="border-top:0px !important">' + value.date.substr(0, 10) + '</td></tr><tr class="borderSet"> <th>' + "Expense Type" + '</th><th>' + "Total Amount" + '</th><th>' + "Paid Amount" + '</th><th>' + "Due Amount" + '</th></tr>  ');
+        }
+ 
+        TotalAmounts=TotalAmounts+value.totalAmount;
+        PaidAmounts=PaidAmounts+value.paidAmount;
+        DueAmounts=DueAmounts+value.dueAmount;
+        $("#SaleData").append(' <tr  class="borderSet"><td>' + value.expenseType + '</td> <td>' + value.totalAmount + '</td><td>' + value.paidAmount + '</td><td>' + value.dueAmount + '</td></tr>');
+        if(row == value.rownumber){ 
+            $("#SaleData").append(' <tr ><td style="border-top:0px !important;font-weight:bold;font-size:18px;">Total :</td><td style="border-top:0px !important ;font-weight:bold;font-size:18px;">' + TotalAmounts + '</td><td style="font-weight:bold;font-size:18px;">' + PaidAmounts + '</td><td style="font-weight:bold;font-size:18px;">' + DueAmounts + '</td></tr>');
+            row = 0;
+             TotalAmounts=0;
+             PaidAmounts=0;
+             DueAmounts=0;
+        }
+        a = value.date.substr(0, 10);
+    });
+
+    $(document).ready(function () {
+        $('#makerpdf').click(function () {
+            var FromDate = $("#FromDate").val();
+            var ToDate = $("#ToDate").val();
+            var ReportType = $("#ReportType").val();
+            var pdfurl = '/Report/ExportPDF?FromDate=' + FromDate + '&ToDate=' + ToDate + '&ReportType=' + ReportType;
+            $("#makerpdf").attr("href", pdfurl);
+        });
+    });
+</script>

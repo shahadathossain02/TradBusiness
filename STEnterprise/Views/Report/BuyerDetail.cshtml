@@ -1,0 +1,88 @@
+﻿@using STEnterprise.Models
+@model ReportModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Buyer Detail</title>
+    <style>
+        .borderSet > th {
+            border: 1px solid black;
+        }
+
+        .borderSet > td {
+            border: 1px solid black;
+        }
+
+        .mainHedder {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .GroupBold {
+            font-weight: bold;
+            padding-bottom: 50px;
+        }
+
+        .table > tr > td {
+            border-top: 0px !important;
+        }
+
+        #rowLine {
+            color: #f00;
+            background-color: black;
+            height: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div style="display:none">
+        @Html.TextBoxFor(b => b.FromDate, new { id = "FromDate" });
+        @Html.TextBoxFor(b => b.ToDate, new { id = "ToDate" });
+        @Html.TextBoxFor(b => b.ReportType, new { id = "ReportType" });
+    </div>
+    <div class="container">
+        <h1 class="mainHedder">S.T ENTERPRISE</h1>
+        <h4 class="mainHedder">Buyer Detail</h4>
+        <h5 class="mainHedder">  Date From: @String.Format("{0:dd/MMM/yyyy}", Model.FromDate) To : @String.Format("{0:dd/MMM/yyyy}", Model.ToDate)</h5>
+        <p id="rowLine"></p>
+        <table class="table">
+            <tbody id="SaleData"></tbody>
+        </table>
+        <a id="makerpdf" href="#"><button type="button" class="btn btn-info">Make PDF</button></a>
+    </div>
+
+
+</body>
+
+</html>
+<script>
+    var LocalSaleData = @JavaScriptConvert.SerializeObject(Model.dtCommon);
+    var a = "";
+    console.log(LocalSaleData);
+    $.each(LocalSaleData, function (key, value) {
+        if(value.customerName != a){
+            $("#SaleData").append('<tr><td style="border-top:0px !important"></td></tr><tr> <td class="GroupBold" style="border-top:0px !important">' + "Customer Name :" + '</td><td style="border-top:0px !important">' + value.customerName + '</td></tr><tr> <td class="GroupBold" style="border-top:0px !important">' + "Customer Address :" + '</td><td style="border-top:0px !important">' + value.customerAddress + '</td></tr><tr> <td class="GroupBold" style="border-top:0px !important">' + "Country Name :" + '</td><td style="border-top:0px !important">' + value.countryName + '</td></tr><tr> <td class="GroupBold" style="border-top:0px !important">' + "Mobile :" + '</td><td style="border-top:0px !important">' + value.customerContactNumber + '</td></tr><tr> <td class="GroupBold" style="border-top:0px !important">' + "Email :" + '</td><td style="border-top:0px !important">' + value.customerEmail + '</td></tr><tr class="borderSet"> <th>' + "Date" + '</th><th>' + "Consignment Number" + '</th><th>' + "Total Amount" + '</th><th>' + "Paid Amount" + '</th><th>' + "Due Amount" + '</th></tr>  ');
+        }        
+        $("#SaleData").append(' <tr  class="borderSet"><td>' + value.sellingDate + '</td> <td>' + value.consignmentNumber + '</td><td>' + value.totalAmount + '</td><td>' + value.paidAmount + '</td><td>' + value.dueAmount + '</td>');
+        a = value.customerName;
+        console.log(a);
+    });
+
+    $(document).ready(function () {
+        $('#makerpdf').click(function () {
+            var FromDate = $("#FromDate").val();
+            var ToDate = $("#ToDate").val();
+            var ReportType = $("#ReportType").val();
+            var pdfurl = '/Report/ExportPDF?FromDate=' + FromDate + '&ToDate=' + ToDate + '&ReportType=' + ReportType;
+            $("#makerpdf").attr("href", pdfurl);
+        });
+    });
+</script>
